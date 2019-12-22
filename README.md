@@ -3,7 +3,7 @@ This is our second version of dynamic discrete-continuous choice model which all
 
 Library "dcmodels_1.0.01.tar.gz" must be installed before using this R package. You can find the installation instruction for R/RStudio here: https://stat.ethz.ch/pipermail/r-help/2008-August/169599.html
 
-This example is based on simulated data. "input_data_simulation.R" is used to generate input data files which are saved under folder "simulate_data"
+This example is based on simulated data. "input_data_simulation.R" is used to generate input data files which are saved under folder "simulate_data.zip". As the size of input data is larger than 25M, only partial data files have been uploaded to "simulate_data.zip" for demonstration purpose. Feel free to use "input_data_simulation.R" to generate the complete data sets. 
 
 Model estimation file of the example is named as "estimation_simulated_data.R"
 
